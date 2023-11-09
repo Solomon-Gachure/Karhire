@@ -15,15 +15,15 @@ const About = () => {
                  </p>
                  
         </div>
-        <div className='grid grid-cols-2'>
+        <div className='grid md:grid-cols-2'>
             <div className='p-2 pl-10'>
-                    <div className='border rounded-full w-[400px] h-[400px]'>
+                    <div className='border rounded-full w-[200px] h-[200px] md:w-[400px] md:h-[400px]'>
                         <img className='w-full h-full object-cover rounded-full' src="https://images.pexels.com/photos/4481851/pexels-photo-4481851.jpeg?auto=compress&cs=tinysrgb&w=600" alt="driver" />
                     </div>
                     <p>We pride our services to ensure that every client is happy!</p>
                  </div>
                  <div className='p-2 pl-10'>
-                    <div className='border rounded-full w-[400px] h-[400px]'>
+                    <div className='border rounded-full w-[200px] h-[200px] md:w-[400px] md:h-[400px]'>
                         <img className='w-full h-full object-cover rounded-full' src="https://images.pexels.com/photos/5290053/pexels-photo-5290053.jpeg?auto=compress&cs=tinysrgb&w=600" alt="driver" />
                     </div>
                     <p>Our services are not limited to any event,find comfort no matter where!</p>
