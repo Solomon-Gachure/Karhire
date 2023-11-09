@@ -19,9 +19,8 @@ const handleNav=()=>{
             <ul className='hidden md:flex gap-4 items-center'>
                 <li className='cursor-pointer border-b-2 border-purple-500'>Home</li>
                 <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>Booking</li>
-                <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>About</li>
                 <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>Cars</li>
-                <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>Services</li>
+                 <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>About</li>
                 <li className='cursor-pointer border-b-2 border-transparent hover:border-purple-500'>Contact</li>
 
             </ul>
