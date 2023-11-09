@@ -6,7 +6,7 @@ import {BiTime} from 'react-icons/bi'
 
 const Hero = () => {
   return (
-    <div className='max-w-full h-screen p-2'>
+    <div className='max-w-full  p-2'>
       <div className='flex flex-col'>
         <div >
           <div className='w-full h-[300px] relative'>

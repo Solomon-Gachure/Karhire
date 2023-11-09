@@ -1,3 +1,4 @@
+import Carsforrent from "./components/carsforrent";
 import Hero from "./components/hero";
 import Navigation from "./components/navigation";
 
@@ -7,6 +8,7 @@ function App() {
     <div >
       <Navigation/>
       <Hero/>
+      <Carsforrent/>
     </div>
   );
 }
